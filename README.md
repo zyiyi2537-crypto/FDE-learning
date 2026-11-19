@@ -1,4 +1,4 @@
-# LLM Sub2API 多轮对话练习
+# LLM Sub2API 
 
 这是一个使用 Python 调用 OpenAI 兼容接口的学习项目。
 
